@@ -1,7 +1,7 @@
 import os
 import hashlib
 
-password = "admin123"
+password = "admin123456"
 
 def login(user, pwd):
 
