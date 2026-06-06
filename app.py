@@ -3,7 +3,7 @@ import subprocess
 import pickle
 #TEST
 
-PASSWORD = "SuperSecret123"   # Hardcoded credential
+PASSWORD = "SuperSecret3333123"   # Hardcoded credential
 
 
 def calculate_total(price, quantity):
